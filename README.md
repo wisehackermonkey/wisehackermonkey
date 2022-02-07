@@ -19,7 +19,8 @@
     - Robotic
     - Manufacturing Processes
 ## 📫 How to reach me: 
-### Email: <img src="assets/Oranbusiness@gmail.com.png"  height="15">
+### Email: ~REDACTED BEEP BOOP~ 
+<!-- <img src="assets/Oranbusiness@gmail.com.png"  height="15"> -->
 
 
 ![](https://en8w8z6jmeh0m.x.pipedream.net/oran.png)
