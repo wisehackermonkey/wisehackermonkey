@@ -2,6 +2,7 @@
 ![](assets/github-cover-photo-v1-20220119.png)
 ## Website: [Orans website](https://orancollins.com/)
 ## Blog: [Orans Blog](https://oransblog.com/)
+## [Buy Me a coffee](https://buymeacoffee.com/oran)
 # About me:
 ##  🔭 I’m currently working on 
     - Building compilers, UI/UX
